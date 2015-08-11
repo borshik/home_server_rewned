@@ -1,0 +1,28 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: isilakov85@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0YvQuSDRgdCw0LnRgiDQvdCwIFdvcmRQcmVzcw==?=
+Date: Fri, 22 Aug 2014 22:22:54 +0000
+Return-Path: <wordpress@uchimwpbyw3>
+From: WordPress <wordpress@uchimwpbyw3>
+Message-ID: <0b33fe5da9a196bfa8579b4cfc6aabb0@uchimwpbyw3>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Ваш новый сайт на WordPress успешно создан по адресу:
+
+http://uchimwpbyw3
+
+Вы можете войти в панель управления со следующими координатами:
+
+Имя пользователя: uchimwpbyw3Admin
+Пароль: Пароль, выбранный вами при установке.
+
+Мы надеемся, что вам понравится новый сайт. Спасибо!
+
+--Команда WordPress
+https://wordpress.org/
+

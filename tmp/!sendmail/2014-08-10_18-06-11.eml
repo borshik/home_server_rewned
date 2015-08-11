@@ -1,0 +1,28 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: silakov_igor@mail.ru
+Subject: =?UTF-8?B?0J3QvtCy0YvQuSDRgdCw0LnRgiDQvdCwIFdvcmRQcmVzcw==?=
+Date: Sun, 10 Aug 2014 15:06:11 +0000
+Return-Path: <wordpress@aikido>
+From: WordPress <wordpress@aikido>
+Message-ID: <583a3e0e83eff0011ed0fbebe39c2fbb@aikido>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Ваш новый сайт на WordPress успешно создан по адресу:
+
+http://aikido
+
+Вы можете войти в панель управления со следующими координатами:
+
+Имя пользователя: root
+Пароль: Пароль, выбранный вами при установке.
+
+Мы надеемся, что вам понравится новый сайт. Спасибо!
+
+--Команда WordPress
+https://wordpress.org/
+

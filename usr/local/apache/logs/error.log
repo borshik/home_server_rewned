@@ -1,0 +1,22 @@
+[Tue Aug 11 21:32:03 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Aug 11 21:32:03 2015] [warn] pid file Z:/usr/local/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 11 21:32:03 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Aug 11 21:32:04 2015] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.2.12 configured -- resuming normal operations
+[Tue Aug 11 21:32:04 2015] [notice] Server built: Apr 20 2012 18:42:30
+[Tue Aug 11 21:32:04 2015] [notice] Parent: Created child process 7020
+[Tue Aug 11 21:32:04 2015] [notice] Disabled use of AcceptEx() WinSock2 API
+[Tue Aug 11 21:32:04 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Aug 11 21:32:04 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Child process is running
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Acquired the start mutex.
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Starting 25 worker threads.
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Listening on port 443.
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Listening on port 8648.
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Listening on port 443.
+[Tue Aug 11 21:32:04 2015] [notice] Child 7020: Listening on port 80.
+[Tue Aug 11 23:01:55 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 11 23:01:55 2015] [notice] Child 7020: Exit event signaled. Child process is ending.
+[Tue Aug 11 23:01:56 2015] [notice] Child 7020: Released the start mutex
+[Tue Aug 11 23:01:56 2015] [notice] Child 7020: All worker threads have exited.
+[Tue Aug 11 23:02:01 2015] [notice] Child 7020: Child process is exiting
+[Tue Aug 11 23:02:01 2015] [notice] Parent: Child process exited successfully.

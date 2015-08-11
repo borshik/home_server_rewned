@@ -1,0 +1,28 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: silakov_igor@mail.ru
+Subject: =?UTF-8?B?0J3QvtCy0YvQuSDRgdCw0LnRgiDQvdCwIFdvcmRQcmVzcw==?=
+Date: Sun, 10 Aug 2014 12:47:18 +0000
+Return-Path: <wordpress@vash_site>
+From: WordPress <wordpress@vash_site>
+Message-ID: <b1d25ffc92fa9626f060665cc0e77a7e@vash_site>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Ваш новый сайт на WordPress успешно создан по адресу:
+
+http://vash_site
+
+Вы можете войти в панель управления со следующими координатами:
+
+Имя пользователя: admin
+Пароль: Пароль, выбранный вами при установке.
+
+Мы надеемся, что вам понравится новый сайт. Спасибо!
+
+--Команда WordPress
+https://wordpress.org/
+

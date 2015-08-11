@@ -1,0 +1,26 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: silakov_igor@mail.ru
+Subject: =?UTF-8?B?W2Fpa2lkb10g0J3QvtCy0YvQuSDQv9Cw0YDQvtC70Yw=?=
+Date: Fri, 15 Aug 2014 22:30:36 +0000
+Return-Path: <wordpress@aikido>
+From: WordPress <wordpress@aikido>
+Message-ID: <929a561911ec091b0c4ee5bc15f00d50@aikido>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Кто-то запросил сброс пароля для следующей учётной записи:
+
+http://aikido/
+
+Имя пользователя: root
+
+Если произошла ошибка, просто проигнорируйте это письмо, и ничего не произойдёт.
+
+Чтобы сбросить пароль, перейдите по следующей ссылке:
+
+<http://aikido/wp-login.php?action=rp&key=aYPe4PjsK4J3Ed4CpzAT&login=root>
+

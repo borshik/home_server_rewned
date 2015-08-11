@@ -1,0 +1,28 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: isilakov85@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0YvQuSDRgdCw0LnRgiDQvdCwIFdvcmRQcmVzcw==?=
+Date: Tue, 22 Jul 2014 22:25:47 +0000
+Return-Path: <wordpress@podelki_iz_dereva>
+From: WordPress <wordpress@podelki_iz_dereva>
+Message-ID: <5d8f4b91c730f37c43967cf8e3632833@podelki_iz_dereva>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Ваш новый сайт на WordPress успешно создан по адресу:
+
+http://podelki_iz_dereva
+
+Вы можете войти в панель управления со следующими координатами:
+
+Имя пользователя: admin
+Пароль: Пароль, выбранный вами при установке.
+
+Мы надеемся, что вам понравится новый сайт. Спасибо!
+
+--Команда WordPress
+https://wordpress.org/
+
