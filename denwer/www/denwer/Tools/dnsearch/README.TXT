@@ -1,19 +1,4 @@
-# +-------------------------------------------------------------------------+
-# | DNSearch (Denwer Search)                                                |
-# | Version: 1.3 [2005-02-12]                                               |
-# +-------------------------------------------------------------------------+
-# | Copyright © Anton Sushchev aka Ant <http://forum.dklab.ru/users/Ant/>   |
-# +-------------------------------------------------------------------------+
-# | Special thanks to:                                                      |
-# |  ó Dmitry Koteroff aka dk <http://forum.dklab.ru/users/DmitryKoteroff/> |
-# |  ó Ilya Lebedev aka WingedFox <http://forum.dklab.ru/users/WingedFox/>  |
-# |  ó <http://forum.dklab.ru/> and <http://Xpoint.ru/> (-;                 |
-# +-------------------------------------------------------------------------+
-# | Latest version: <http://debugger.ru/download/scripts/dnsearch/latest/>  |
-# +-------------------------------------------------------------------------+
 
-
-Œ—ÕŒ¬Õ€≈ ¬Œ«ÃŒ∆ÕŒ—“» — –»œ“¿.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 01. ¿Î„ÓËÚÏ ÔÓËÒÍ‡:
