@@ -1,2 +1,5 @@
 home/*
-/usr/local/
+/usr/local/apache/logs
+/usr/local/mysql-5.5/data/ib*
+/usr/local/mysql-5.5/data/*.err
+/usr/local/mysql-5.5/data/*.pid
